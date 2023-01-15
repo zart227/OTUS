@@ -1,0 +1,1 @@
+This is the homework repository for the OTUS Web Programming Python course.
